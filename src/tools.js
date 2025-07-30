@@ -44,7 +44,7 @@ const tools = {
     "info": {
         icon: fa_info_circle,
         callback: () => {
-            open("https://bytehunter.html-5.me");
+            open("https://ww1.html-5.me");
         }
     },
     "quit": {
